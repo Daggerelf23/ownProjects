@@ -1,0 +1,20 @@
+header {
+    font-weight: bold;
+    font-size: 5vw;
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+
+table {
+    margin:auto;
+    margin-top:10%;
+}
+
+table td {
+    padding: 4vw;
+}
+
+table td::first-of-child {
+    font-size: 2vw;
+    font-weight: bold;
+}
